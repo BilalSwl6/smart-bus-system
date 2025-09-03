@@ -211,3 +211,7 @@ __marimo__/
 # Firebase Studio
 .idx/
 ./.idx/
+
+
+backend/.venv/
+backend/venv/
