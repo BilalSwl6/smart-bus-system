@@ -14,7 +14,7 @@ smart-bus-system/
 
 ## Diagram
 
-<img src="./docs/pics/Diagram.svg" alt="Smart Bus System Diagram">
+<img src="./docs/pics/diagram.svg" alt="Smart Bus System Diagram">
 
 This diagram illustrates the overall architecture and components of the Smart Bus System, showing the interaction between the bus hardware, backend services, and the mobile application.
 
